@@ -1,7 +1,5 @@
 <?php
-/* Code copyright 2003 Joseph A. Tracy http://www.revisualized.com 
-You may not use this code without the expressed permission from
-Joseph A. Tracy. 
+/* Code copyright 2003 Joseph http://www.revisualized.com 
 Date: Thursday, July 03, 2003 */
 
 /*
